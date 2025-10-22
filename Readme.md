@@ -64,3 +64,18 @@ Ensure the following are installed:
 - Python 3.8+ with the following packages:
   ```bash
   pip install pandas matplotlib
+
+### Project Team
+
+Rahul Yadav (2022MEB1334)
+
+Sumer Bassi (2022MEB1351)
+
+### Supervisor
+
+Dr. Ekta Singla
+Department of Mechanical Engineering, IIT Ropar
+
+### License
+
+This project is licensed under the MIT License.
